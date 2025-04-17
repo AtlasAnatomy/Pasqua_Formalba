@@ -27,7 +27,7 @@ Check out our leaderboard to see how you stack up 🐇🔥
 
 > Get ready to jump into the Easter spirit!  
 > 💻 Desktop & 📱 Mobile-friendly  
-> 🌐 [Play Easter Jump here](#https://atlasanatomy.github.io/Pasqua_Formalba/) – *link coming soon*
+> 🌐 [Play Easter Jump here](#atlasanatomy.github.io/Pasqua_Formalba/)
 
 ---
 
