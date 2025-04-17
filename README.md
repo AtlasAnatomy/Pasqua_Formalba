@@ -1,47 +1,35 @@
-## t-rex-runner
+# 🐣 Easter Jump by Formalba 🐰
 
-the trex runner game extracted from chrome offline err page.
+![Easter Jump Logo](./logo.png) <!-- Replace with actual path to the logo -->
 
-see the [source](https://cs.chromium.org/chromium/src/components/neterror/resources/offline.js?q=t-rex+package:%5Echromium$&dr=C&l=7) from chromium
+Welcome to **Easter Jump**, the ultimate egg-dodging, chick-leaping challenge brought to you by **Formalba**! 🎉
 
+## 🎮 About the Game
 
-[go and enjoy! :smile: ](http://wayou.github.io/t-rex-runner/)
+In this high-energy Easter game, you must **jump** your way to glory. Your mission:  
+➡️ **Avoid falling eggs and rogue chicks**  
+➡️ **Time your jumps perfectly**  
+➡️ **Climb the scoreboard** and hit the **highest score** to win an **egg-citing prize**! 🏆
 
-![chrome offline game cast](assets/screenshot.gif)
+## 🕹️ How to Play
 
-## Interesting Forks/In Chinese, we call it 「花样玩法」
+- **Tap / Click / Press spacebar** to jump  
+- Dodge the **eggs** and **chicks** falling your way  
+- Stay in the game as long as you can — it gets faster the longer you play!  
+- Score big to enter the prize leaderboard
 
-- [vianroyal](https://github.com/vianroyal)/[t-rex-runner](https://github.com/vianroyal/t-rex-runner) [Kumamon runner](http://vianroyal.github.io/t-rex-runner/) 
-<br>
+## 🎁 Prizes
 
-![](assets/kumamon-runner.gif)
+Score the highest and **win exclusive Easter prizes** from Formalba!  
+Check out our leaderboard to see how you stack up 🐇🔥
 
-- [xkuga](https://github.com/xkuga)/[t-rex-runner](https://github.com/xkuga/t-rex-runner) [Hello KuGou](http://hellokugou.com/) 
-<br>
+## 📱 Play Now
 
-![](assets/hello-kugou.gif)
+> Get ready to jump into the Easter spirit!  
+> 💻 Desktop & 📱 Mobile-friendly  
+> 🌐 [Play Easter Jump here](#https://atlasanatomy.github.io/Pasqua_Formalba/) – *link coming soon*
 
-- [d-nery](https://github.com/d-nery/)/[t-rex-runner](https://github.com/d-nery/t-rex-runner) [Novas coisas](http://d-nery.github.io/t-rex-runner/) 
-<br>
+---
 
-![](assets/novas-coisas.gif)
-
-- [chirag64](https://github.com/chirag64)/[t-rex-runner-bot](https://github.com/chirag64/t-rex-runner-bot) [t-rex runner bot](https://chirag64.github.io/t-rex-runner-bot/) 
-<br>
-
-![](assets/t-rex-runner-bot.gif)
-
-- [19janil](https://github.com/19janil)/[t-rex-runner](https://github.com/19janil/t-rex-runner) [t-rex runner](https://19janil.github.io/t-rex-runner/) 
-<br>
-
-![](assets/t-rex-runner-19janil.gif)
-
-- [enthus1ast](https://github.com/enthus1ast)/[chromeTrip](https://github.com/enthus1ast/chromeTrip) [Chrome Trip by code0](https://code0.itch.io/chrome-trip) 
-<br>
-
-![](https://user-images.githubusercontent.com/13794470/37289691-964618be-260a-11e8-8c4a-6df04d6c490d.gif)
-
-- [zouariste](https://github.com/zouariste)/[corona-runner](https://github.com/zouariste/corona-runner) [Corona runner](https://zouariste.github.io/corona-runner/) 
-<br>
-
-![](https://raw.githubusercontent.com/zouariste/corona-runner/gh-pages/assets/corona-runner.gif)
+Happy jumping and may the best bunny win! 🐣✨  
+Made with ❤️ by the Formalba Team
